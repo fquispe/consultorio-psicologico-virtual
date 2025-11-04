@@ -1,0 +1,32 @@
+{
+  "name": "consultorio-psicologico-virtual",
+  "version": "1.0.0",
+  "description": "Plataforma de consultorio psicológico virtual, información y gestion de consultas",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://local_proxy@127.0.0.1:21416/git/fquispe/consultorio-psicologico-virtual"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "autoprefixer": "^10.4.21",
+    "framer-motion": "^12.23.24",
+    "next": "^16.0.1",
+    "postcss": "^8.5.6",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-hook-form": "^7.66.0",
+    "tailwindcss": "^3.4.18",
+    "typescript": "^5.9.3"
+  }
+}
