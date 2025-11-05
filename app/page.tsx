@@ -1,6 +1,7 @@
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import HeroSection from '@/components/sections/HeroSection';
+import FeaturesCarousel from '@/components/sections/FeaturesCarousel';
 import AboutSection from '@/components/sections/AboutSection';
 import ServicesSection from '@/components/sections/ServicesSection';
 import TeamSection from '@/components/sections/TeamSection';
@@ -14,6 +15,7 @@ export default function Home() {
     <main>
       <Navbar />
       <HeroSection />
+      <FeaturesCarousel />
       <AboutSection />
       <ServicesSection />
       <TeamSection />
